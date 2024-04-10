@@ -3165,3 +3165,24 @@ input, select, textarea {
 	.wrapper h2,h3 {
 		color: #fff
 	}
+
+	.titulo-precio{
+		font-size: 2em;
+		margin-bottom: 0.6em;
+		text-shadow: 1px 1px 2px black;
+	}
+
+	.precio{
+		background: white;
+		color: #030303;
+		font-weight: bold;
+		padding: 0 1em 0 1em;
+		border: solid black 1px;
+		font-size: 1.5em;
+		border-radius: 50px;
+	}
+
+	.detalle{
+		text-shadow: 1px 1px 2px black;
+	}
+
