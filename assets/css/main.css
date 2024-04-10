@@ -3216,8 +3216,12 @@ input, select, textarea {
 		background-image: linear-gradient(-45deg, #000000,#e21270,#0094d3);
 	}
 
-	.active{
-		background-image: linear-gradient(-45deg, #000000,#f3df09,#e51272,#0094d3);
+	.activo{
+		font-size: x-large;
+	}
+
+	.fondo-footer{
+		background: #e21270;
 	}
 
 
