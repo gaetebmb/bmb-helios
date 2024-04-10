@@ -2169,7 +2169,8 @@ input, select, textarea {
 	}
 
 		.wrapper.style2 {
-			padding-top: 0;
+			padding-top: 2em;
+
 		}
 
 /* Header */
@@ -2408,7 +2409,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #fff;
+		background-image: linear-gradient(-45deg, #000000,#f3df09,#e51272,#0094d3);
 		text-align: center;
 		padding: 4.5em 0 4.5em 0;
 		margin-bottom: 0;
@@ -2505,6 +2506,7 @@ input, select, textarea {
 /* Carousel */
 
 	.carousel {
+		background-image: linear-gradient(-45deg, #000000,#f3df09,#e51272,#0094d3);
 		position: relative;
 		overflow: hidden;
 		padding: 2em 0 2em 0;
@@ -3163,7 +3165,7 @@ input, select, textarea {
 	}
 
 	.wrapper h2,h3 {
-		color: #fff
+		color: #e51272
 	}
 
 	.titulo-precio{
@@ -3185,4 +3187,6 @@ input, select, textarea {
 	.detalle{
 		text-shadow: 1px 1px 2px black;
 	}
+
+
 
